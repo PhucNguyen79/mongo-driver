@@ -1,0 +1,12 @@
+{
+  "id": "/InventoryCountType",
+  "type": "object",
+  "properties": {
+    "value": {
+      "type": "integer"
+    },
+    "name": {
+      "type": "string"
+    }
+  }
+}

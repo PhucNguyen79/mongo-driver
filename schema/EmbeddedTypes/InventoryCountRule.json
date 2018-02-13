@@ -1,0 +1,21 @@
+{
+  "id": "/InventoryCountRule",
+  "type": "object",
+  "properties": {
+    "rule_type": {
+      "type": "string"
+    },
+    "max_items": {
+      "type": "number"
+    },
+    "high_oh_variance_cost": {
+      "type":"number"
+    },
+    "high_oh_variance_qty": {
+      "type":"number"
+    },
+    "select_random_items": {
+      "type":"number"
+    }
+  }
+}
